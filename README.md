@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finemtt1
 - 👀 I’m interested in solidity & python
-- 🌱 I’m currently learning smart contract & image processing
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
